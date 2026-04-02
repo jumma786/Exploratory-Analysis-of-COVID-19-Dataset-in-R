@@ -72,53 +72,8 @@ This project analyzes COVID-19 patient-level data using R to explore key factors
 
 ---
 
-## 📂 Project Structure
 
-```
-covid-r-line-list-analysis/
-│
-├── covid_analysis.R
-├── COVID19_line_list_data.csv
-├── README.md
-└── .gitignore
-```
 
----
-
-## ▶️ How to Run
-
-1. Open R or RStudio
-2. Install required package:
-
-   ```r
-   install.packages("Hmisc")
-   ```
-3. Set working directory to project folder
-4. Run:
-
-   ```r
-   source("covid_analysis.R")
-   ```
-
----
-
-## 🚀 Future Improvements
-
-* Add visualizations (ggplot2)
-* Build predictive model (logistic regression)
-* Create dashboard using Shiny or Power BI
-
----
-
-## 💼 Why This Project Matters
-
-This project demonstrates:
-
-* Real-world data cleaning
-* Statistical analysis & hypothesis testing
-* Analytical thinking for healthcare data
-
----
 
 ## 👤 Author
 
